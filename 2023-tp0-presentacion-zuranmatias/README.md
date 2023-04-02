@@ -8,7 +8,7 @@ Muy buenos días y muchas gracias por meterse a mi repo de github. En este readm
 - Legajo: 2026545
 - Me recibí en el colegio secundario PIO IX en el bachiller de informática y además de la carrera de la utn estoy estudiando para un título de programador fullstack.
 - Esta es mi foto de instagram
-![hola hola como andamos](0.jpg)
+![hola hola como andamos](0.png)
 
 ---
 
